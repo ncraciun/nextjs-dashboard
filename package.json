@@ -32,6 +32,9 @@
     "onlyBuiltDependencies": [
       "bcrypt",
       "sharp"
-    ]
+    ],
+    "overrides": {
+      "baseline-browser-mapping": "latest"
+    }
   }
 }
